@@ -1,0 +1,12 @@
+.Lottery{
+    border: 1px solid salmon;
+    text-align: center;
+}
+
+.Lottery:not(:first-child) {
+    margin-top: 20px;
+}
+
+table{
+    margin: auto;
+}
